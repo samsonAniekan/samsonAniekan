@@ -41,7 +41,7 @@ Here are some of the projects I’m most proud of:
 ## 📫 Get In Touch
 
 - LinkedIn: [linkedin.com/in/samson-aniekan](#)  
-- Email: **your-email@example.com**  
+- Email: **subong271@gmail.com**  
 - Portfolio / Website: *coming soon*
 
 ---
