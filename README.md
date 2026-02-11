@@ -1,14 +1,14 @@
 # Hi, I’m Samson 👋  
-**Software Engineer · Fintech & AI Developer**
+**Software Engineer**
 
 I build backend systems, real-time fintech engines, and AI-powered tools using Python, FastAPI, Redis, MongoDB, and React.
 
 ---
 
 ## 🚀 About Me
-- Currently working at **Telnet Nigeria (ITECO)** as a Physical Security Systems Engineer  
-- Contract Software Engineer at **Softworks Nigeria** (React / FastAPI)  
-- Passionate about building **real-time systems** and **microservices** for financial applications  
+- Currently working at **Telnet Nigeria ** as a\ Software Engineer  
+- Specialization in (React / FastAPI)  
+- Passionate about building **real-time systems** and **microservices** for financial applications,Agric Tech, ect  
 - Big believer in clean code, solid documentation, and building things for impact
 
 ---
